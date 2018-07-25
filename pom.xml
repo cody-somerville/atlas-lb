@@ -79,7 +79,7 @@
         <!--  <hadoop.version>1.2.0</hadoop.version> -->
         <hibernate.version>3.5.1-Final</hibernate.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <camel.version>2.5.0</camel.version>
+        <camel.version>2.17.6</camel.version>
         <spring.version>3.0.4.RELEASE</spring.version>
         <cxf.version>2.5.1</cxf.version>
         <com.zxtm.service.version>1.1.0</com.zxtm.service.version>
@@ -313,13 +313,13 @@
             <dependency>
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
-                <version>5.1.6</version>
+                <version>5.1.42</version>
             </dependency>
 
             <dependency>
                 <groupId>org.apache.activemq</groupId>
                 <artifactId>activemq-camel</artifactId>
-                <version>5.3.1</version>
+                <version>5.15.0</version>
             </dependency>
 
             <dependency>
@@ -407,7 +407,7 @@
             <dependency>
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
-                <version>5.1.6</version>
+                <version>5.1.42</version>
             </dependency>
             <dependency>
                 <groupId>commons-logging</groupId>
@@ -591,7 +591,7 @@
             <dependency>
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
-                <version>5.1.6</version>
+                <version>5.1.42</version>
                 <scope>runtime</scope>
             </dependency>
             <dependency>
